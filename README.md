@@ -71,5 +71,5 @@ We use [Github](https://github.com/) for versioning. This is the first version o
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
-*tip @silikhe Silas
+* Tip @silikhe Silas
 * Hat tip to  ```Stackoverflow```
