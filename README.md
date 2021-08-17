@@ -12,7 +12,8 @@ E-mail:jamesgrant964@gmail.com
 
 ## Getting Started
 
-Clone this repository to your local machine to get Started
+Clone this repository to your local machine to get Started on the coding journey
+You can also fork it then ope it on your local machine.
 
 
 
