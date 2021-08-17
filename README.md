@@ -5,7 +5,8 @@ This is a java app that enables a user create a hero and a squad and also the us
 
 * **Grant Okello** 
 
-
+## Contact
+phone:0768114967
 
 
 ## Getting Started
