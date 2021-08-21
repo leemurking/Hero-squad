@@ -76,4 +76,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments:
 * Tip @silikhe Silas
-* Hat tip to  ```Stackoverflow```
+* Hat tip to  ```Stackoverflow```.
