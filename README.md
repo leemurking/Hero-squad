@@ -40,7 +40,7 @@ After cloning to your local machine navigate to the folder you cloned into and o
 * Navigate into the ``` src/main/java/App.java ``` and click run in intellij.
 * Go to your browser and type ``` localhost:4567 ```
 
-## Running the Tests 
+## Running the Tests; 
 
 Create a test class for running tests in the application.
 
