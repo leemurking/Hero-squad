@@ -7,7 +7,7 @@ This is a java app that enables a user create a hero and a squad and also the us
 
 ## Contact
 phone:0768114967
-E-mail:jamesgrant964@gmail.com
+E-mail:jamesgrant964@gmail.com.
 
 
 ## Getting Started
