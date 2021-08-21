@@ -17,7 +17,7 @@ You can also fork it then ope it on your local machine.
 
 
 
-### Prerequisites
+### Prerequisites:
 
 You need the following installed on your machine.
 - java
