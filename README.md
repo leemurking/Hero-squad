@@ -10,7 +10,7 @@ phone:0768114967
 E-mail:jamesgrant964@gmail.com.
 
 
-## Getting Started
+## Getting Started:
 
 Clone this repository to your local machine to get Started on the coding journey
 You can also fork it then ope it on your local machine.
