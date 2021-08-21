@@ -44,7 +44,7 @@ After cloning to your local machine navigate to the folder you cloned into and o
 
 Create a test class for running tests in the application.
 
-This is a sample test that tests if the getter method works
+This is a sample test that tests if the getter method works.
 
 ```
   @Test
