@@ -70,7 +70,7 @@ If you want to put out a pull request you first have to send us the sample code 
 
 We use [Github](https://github.com/) for versioning. This is the first version of this application
 
-## License
+## License:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
