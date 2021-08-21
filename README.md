@@ -19,7 +19,7 @@ You can also fork it then ope it on your local machine.
 
 ### Prerequisites
 
-You need the following installed on your machine
+You need the following installed on your machine.
 - java
 - JDK - Java Development Kit
 - Maven
